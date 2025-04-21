@@ -93,5 +93,6 @@ public class Main {
 
         String winner = isPlayerTurn ? player : bot;
         System.out.println(winner + " won!");
+        scanner.close();
     }
 }
