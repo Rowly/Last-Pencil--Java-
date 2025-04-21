@@ -1,0 +1,57 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# Project exclude paths
+/Topics/Processing strings/Create an euphonious word/out/
+/Topics/Processing strings/Create an euphonious word/out/production/classes/
+/Topics/Processing strings/Finding the longest word in a sentence/out/
+/Topics/Processing strings/Finding the longest word in a sentence/out/production/classes/
+/Topics/Processing strings/The percentage of G and C characters/out/
+/Topics/Processing strings/The percentage of G and C characters/out/production/classes/
+/Topics/Random class/Find the seed/out/
+/Topics/Random class/Find the seed/out/production/classes/
+gradlew
+build.gradle
+gradlew.bat
+settings.gradle
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+LastPencilJava/Empty the pencil case/task.html
+LastPencilJava/Fair play/task.html
+LastPencilJava/New rules/task.html
+LastPencilJava/task/out/production/classes/lastpencil/Main.class
+LastPencilJava/task/test/LastPencilTest.java
+LastPencilJava/The right strategy/task.html
+LastPencilJava/Working on the gameplay/task.html
+Topics/Processing strings/Complete the code to reverse a string/task.html
+Topics/Processing strings/Complete the code to reverse a string/src/Task.java
+Topics/Processing strings/Create an euphonious word/task.html
+Topics/Processing strings/Create an euphonious word/src/Main.java
+Topics/Processing strings/Determine the output/task.html
+Topics/Processing strings/Determine the output/src/Task.java
+Topics/Processing strings/Finding the longest word in a sentence/task.html
+Topics/Processing strings/Finding the longest word in a sentence/src/Main.java
+Topics/Processing strings/The percentage of G and C characters/task.html
+Topics/Processing strings/The percentage of G and C characters/src/Main.java
+Topics/Processing strings/Theory/task.html
+Topics/Processing strings/Theory/src/Task.java
+Topics/Random class/Choose a correct invocation/task.html
+Topics/Random class/Choose a correct invocation/src/Task.java
+Topics/Random class/Find the seed/task.html
+Topics/Random class/Find the seed/src/Main.java
+Topics/Random class/Impossible to generate/task.html
+Topics/Random class/Impossible to generate/src/Task.java
+Topics/Random class/Possible sequences/answer.txt
+Topics/Random class/Possible sequences/task.html
+Topics/Random class/Theory/task.html
+Topics/Random class/Theory/src/Task.java
+Topics/Random class/Which values can be generated/task.html
+Topics/Random class/Which values can be generated/src/Task.java
